@@ -15,7 +15,7 @@ These features serve as the predictors for the target variable:
 
 ## Exploratory Data Analysis (EDA)
 ### Data Structure
-- The dataset consists of `X` rows and `Y` columns.
+- The dataset consists of `9568` rows and `5` columns.
 - Each row represents an hourly record of the power plant's operational data.
 - Columns correspond to the ambient variables and the net hourly electrical energy output.
 
